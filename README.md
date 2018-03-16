@@ -49,3 +49,5 @@ PHP设计模式
 
 ## 其它
 * 委托模式（Delegation）
+* 服务定位器模式（Service Locator）
+* 资源库模式（Repository）
